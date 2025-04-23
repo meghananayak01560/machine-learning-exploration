@@ -1,6 +1,6 @@
 # Machine Learning Exploration
 
-I'm a sophomore student majoring in Applied Mathematics, and this repository contains my exploration of machine learning concepts through Python notebooks. These notebooks document my learning journey from basic mathematical foundations to more complex neural network implementations.
+This repository contains my exploration of machine learning concepts through Python notebooks. These notebooks document my learning journey from basic mathematical foundations to more complex neural network implementations.
 
 ## Learning Journey
 
@@ -21,6 +21,3 @@ This is my most advanced notebook, where I implement and explain the forward and
 
 ## About Me
 I'm a sophomore student majoring in Applied Mathematics, passionate about the intersection of mathematics and computer science. These notebooks represent my journey in understanding the mathematical foundations of machine learning. I'm particularly interested in how mathematical concepts can be applied to solve real-world problems through machine learning.
-
-## Contact
-[Your contact information here]
