@@ -16,8 +16,7 @@ This notebook revisits single variable calculus concepts with a focus on their a
 ### [Introduction to Neural Networks](notes/nn-intro.ipynb)
 Building on my mathematical foundation, this notebook dives into the basics of neural networks. I explore how linear algebra concepts come together to create these powerful learning systems, including activation functions, layers, and basic network architectures.
 
-### [Neural Network Forward and Backpropagation](notes/nn-forward-backprop.ipynb)
-This is my next step.. the notebook will hopefully be here soon :-)
+My next step will be neural network foward/backward propagation (when I learn it). The notebook will hopefully be here soon :-)
 
 ## About Me
 I'm a sophomore student majoring in Applied Mathematics, passionate about the intersection of mathematics and computer science. These notebooks represent my journey in understanding the mathematical foundations of machine learning. I'm particularly interested in how mathematical concepts can be applied to solve real-world problems through machine learning.
